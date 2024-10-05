@@ -1,0 +1,9 @@
+0 Missing Hole
+1 Mouse Bite
+2 Open Circuit
+3 Short
+4 Spur
+5 Spurious Copper
+
+
+Missing Hole Mouse Bite Open Circuit Short Spur Spurious Copper
